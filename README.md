@@ -2,7 +2,7 @@
 
 This is my little space to store data projects.
 
-🙋‍♂️ **About Me**
+🙋‍♀️ **About Me**
 
 I’m Nhi - A data enthusiast driven by curiosity, dedicated to uncovering insights and telling compelling stories through numbers.
 
