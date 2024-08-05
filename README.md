@@ -10,8 +10,8 @@ I’m Nhi - A data enthusiast driven by curiosity, dedicated to uncovering insig
 
 📖 **Background**
 
-- **2016-2020** - University of Economics Ho Chi Minh City 
-  Bachelor Degree -  Business Administration
+ **2016-2020** - University of Economics Ho Chi Minh City  
+  Bachelor’s Degree - Business Administration
 
 👏 **Contact**
 
