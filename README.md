@@ -16,10 +16,12 @@ I’m Nhi - A data enthusiast driven by curiosity, dedicated to uncovering insig
 👏 **Contact**
 
 Connect with me via:
+Connect with me via:
 
-- 📎 [nhi.nguyen.gg10@gmail.com](mailto:nhi.nguyen.gg10@gmail.com)
-- 📱 0399923030
-- [LinkedIn](#) *https://www.linkedin.com/in/nhi-nguyen10/*
+📎 [nhi.nguyen.gg10@gmail.com](mailto:nhi.nguyen.gg10@gmail.com)  
+📱 0399923030  
+:link: [LinkedIn](https://www.linkedin.com/in/nhi-nguyen10/)
+
 
 
 💻 **Skills**
