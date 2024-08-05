@@ -1,16 +1,41 @@
-## Hi there 👋
+# Welcome to my GitHub!
 
-<!--
-**nhinguyen08/nhinguyen08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my little space to store data projects.
 
-Here are some ideas to get you started:
+🙋‍♂️ **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Nhi - A data enthusiast driven by curiosity, dedicated to uncovering insights and telling compelling stories through numbers.
+
+🔗 **Favorite Quote:** "All knowledge from past to present is fascinating, just that they haven't been properly told" - Monster Box
+
+📖 **Background**
+
+- **2016-2020** - University of Economics Ho Chi Minh City 
+  Bachelor Degree -  Business Administration
+
+👏 **Contact**
+
+Connect with me via:
+
+- 📎 [nhi.nguyen.gg10@gmail.com](mailto:nhi.nguyen.gg10@gmail.com)
+- 📱 0399923030
+- [LinkedIn](#) *https://www.linkedin.com/in/nhi-nguyen10/*
+
+
+💻 **Skills**
+
+- Excel/Google Sheets
+- Power BI/Data Studio
+- SQL
+- Python
+
+💻 **Certifications**
+
+- [Link here](#) *(Replace with your certifications link)*
+
+🗺 **Guide to My Projects**
+
+You can see my projects and study documents [here](#) *(Replace with your projects link)*.
+
+
+Thank you for visiting! 😊 - Lan Nhi
